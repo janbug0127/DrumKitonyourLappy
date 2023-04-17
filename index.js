@@ -1,3 +1,6 @@
+
+//changes by tanisha
+
 var n = document.querySelectorAll(".drum").length;
 for (i = 1; i <= n; i++) {
   document
